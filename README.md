@@ -175,6 +175,13 @@ open index.html
 O clona el repositorio:
 
 ```bash
+# Sin instalación — abrir directamente
+open index.html
+```
+
+O clona el repositorio:
+
+```bash
 git clone https://github.com/Luis-Manzanares/bouty-pdp.git
 cd bouty-pdp
 # Abrir index.html en tu navegador preferido
